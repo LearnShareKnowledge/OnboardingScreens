@@ -1,0 +1,29 @@
+{
+  "result": [
+    {
+      "imageUrl":"",
+      "text":"First Onboarding Screen",
+      "textColor":"#FA360C"
+    },
+    {
+      "imageUrl":"",
+      "text":"Second Onboarding Screen",
+      "textColor":"#C2AEAA"
+    },
+    {
+      "imageUrl":"",
+      "text":"Third Onboarding Screen",
+      "textColor":"#EA0FC5"
+    },
+    {
+      "imageUrl":"",
+      "text":"Fourth Onboarding Screen",
+      "textColor":"#1115F3"
+    },
+    {
+      "imageUrl":"",
+      "text":"Fifth Onboarding Screen",
+      "textColor":"#0EAC3B"
+    }
+  ]
+}
